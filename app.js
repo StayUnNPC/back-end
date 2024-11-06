@@ -1,3 +1,4 @@
+//git 브랜칭 연습중 - 주석추가1
 import 'dotenv/config'; // .env 파일 로드
 import express from 'express';
 import authRoutes from './routes/authRoutes.js';
