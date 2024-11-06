@@ -30,4 +30,4 @@ app.listen(port, () => {
 });
 
 //git 브랜칭 연습중 - 주석추가1
-//git 브랜칭 연습중 - merge 충돌2
+//git 브랜칭 연습중 - merge 충돌1
